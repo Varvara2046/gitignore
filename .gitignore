@@ -1,3 +1,4 @@
+#Ignore single file
 new-file.txt
-
+#Ignore the folder
 bin/
